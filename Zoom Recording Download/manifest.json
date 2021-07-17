@@ -1,0 +1,21 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "manifest_version": 2,
+    "name": "Download Button for Zoom Recordings",
+    "description": "This extension allows you to easily download Zoom recordings! It will make a button inside of the Audio Transcript window.",
+    "version": "1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.zoom.us/rec/play/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "icons": {
+        "128": "images/logo.png"
+    },
+    "short_name": "ZoomRD"
+}
