@@ -1,4 +1,4 @@
-# I am waiting on my chrome extension to be published, but If you need a zoom recording download immediately do the following:**
+# I am waiting on my chrome extension to be published, but If you need a zoom recording download immediately do the following:
 1. Open a Zoom recording link
 2. Press CTRL +SHIFT + I
 3. Open the console
