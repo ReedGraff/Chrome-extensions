@@ -1,4 +1,4 @@
-# I am waiting on my chrome extension to be published, but If you need a zoom recording download immediately do the following:
+# This extension was published publicly here: https://chrome.google.com/webstore/detail/download-button-for-zoom/igfdbppbbapfcddamcnlghipcbdoglli
 1. Open a Zoom recording link
 2. Press CTRL +SHIFT + I
 3. Open the console
